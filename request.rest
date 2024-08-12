@@ -1,0 +1,7 @@
+GET http://localhost:5000/transaksi
+
+###
+GET http://localhost:5000/user/1
+
+###
+GET http://localhost:5000/transaksi/2023
